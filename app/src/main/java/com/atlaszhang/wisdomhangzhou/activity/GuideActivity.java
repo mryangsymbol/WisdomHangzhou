@@ -24,8 +24,6 @@ import java.util.ArrayList;
 /**
  * 新手引导页面
  * 
- * @author Kevin
- * @date 2015-10-17
  */
 public class GuideActivity extends Activity {
 

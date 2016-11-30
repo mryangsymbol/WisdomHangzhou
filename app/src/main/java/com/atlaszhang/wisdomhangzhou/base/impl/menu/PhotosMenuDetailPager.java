@@ -10,8 +10,6 @@ import com.atlaszhang.wisdomhangzhou.base.BaseMenuDetailPager;
 
 /**
  * 菜单详情页-组图
- * @author Kevin
- * @date 2015-10-18
  */
 public class PhotosMenuDetailPager extends BaseMenuDetailPager {
 

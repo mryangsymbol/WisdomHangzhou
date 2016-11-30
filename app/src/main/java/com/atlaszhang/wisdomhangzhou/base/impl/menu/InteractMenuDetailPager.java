@@ -12,8 +12,6 @@ import com.atlaszhang.wisdomhangzhou.base.BaseMenuDetailPager;
 /**
  * 菜单详情页-互动
  * 
- * @author Kevin
- * @date 2015-10-18
  */
 public class InteractMenuDetailPager extends BaseMenuDetailPager {
 

@@ -25,7 +25,9 @@
         <activity
             android:name=".activity.GuideActivity"
             android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen"/>
-        <activity android:name=".activity.MainActivity"/>
+        <activity
+            android:name=".activity.MainActivity"
+            android:theme="@style/Theme.PageIndicatorDefaults"/>
     </application>
 
 </manifest>
